@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdbool.h>
 
-bool Check(int iNo)
+bool Check(int iNo) //new commit
 {
     if(
         ((iNo % 3) == 0) &&
